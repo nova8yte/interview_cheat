@@ -56,3 +56,8 @@ Coming Soon
 ## Warning
 
 This project is for entertainment purposes only. Do not use in actual interviews… unless the interviewer has a great sense of humor.
+## Pressure Mode
+Long-press the lightning icon in the Quiz tab to activate a 5 second multiple-choice round with vibration at 3 seconds.
+
+## CLI Drill
+Run `dart run bin/cheat_cli.dart` to practice from the terminal. Use `--tag=algo` to filter questions.
